@@ -1,9 +1,9 @@
 <h1 align="center">Hello there!</h1>
 <h3 align="center">A danish developer...</h3>
 
-- 🔭  [Discord server](https://discord.link/danskedevelopers)
+- ![Discord](https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png)  [Discord server](https://discord.link/danskedevelopers)
 
-- 👨‍💻 See All my projects on [My Website](https://mrdev.code-hub.xyz/about/projects.html)
+- 🔨 See All my projects on [My Website](https://mrdev.code-hub.xyz/about/projects.html)
 
 - 📫 Mail **info@mrdev.code-hub.xyz**
 
